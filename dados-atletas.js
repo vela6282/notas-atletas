@@ -82,4 +82,3 @@ class Atleta {
   console.log(`Categoria: ${atleta.obtemCategoria()}`);
   console.log(`IMC: ${atleta.obtemIMC().toFixed(2)}`);
   console.log(`Média válida: ${atleta.obtemMediaValida().toFixed(2)}`);
-  
